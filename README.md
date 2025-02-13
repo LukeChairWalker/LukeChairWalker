@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LukeChairWalker
 - 👀 I’m interested in sciences, politics and human nature !!
-- 🌱 I’m currently learning Python among other things !!
 - 💞️ I’m looking to collaborate on nothing for the time being !!
 - 📫 mail: L.P.P@mac.com
 - Français (one word says it all)
